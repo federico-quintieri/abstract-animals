@@ -1,6 +1,6 @@
 package org.lessons.animali;
 
-public abstract class Animale {
+public abstract class AbstractAnimale {
 
     // Metodo concreto dormi per tutti gli animali
     public void dormi() {
